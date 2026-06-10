@@ -217,6 +217,3 @@ e.g. 'terminal-ui.command.create-session'
 1. **写之前** — 查 [章节索引](#章节索引--按需打开) 对应文件,确认模板和检查清单
 2. **写之中** — 严格按速查卡命名规则 + 风格硬约束执行,违反必须就地修正
 3. **写之后** — 对照对应章节 checklist 自查 (尤其 service 章节最后的清单)
-
----
-*对应 `docs/termlnk-code-style-guide.md` · v2.1.0*
