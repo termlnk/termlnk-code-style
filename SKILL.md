@@ -192,8 +192,6 @@ e.g. 'terminal-ui.command.create-session'
 
 ## 章节索引 — 按需打开
 
-每个 reference 文件对应原 `docs/termlnk-code-style-guide.md` 一个章节,需要细节时主动 `Read` 对应文件:
-
 | # | 主题 | 文件 | 何时查阅 |
 |---|------|------|---------|
 | 1 | 核心架构原则 | `references/01-architecture.md` | 设计新模块前、判断职责归属时 |
