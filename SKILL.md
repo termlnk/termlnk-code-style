@@ -1,6 +1,6 @@
 ---
 name: termlnk-code-style
-description: Termlnk 仓库 (DI + RxJS + 命令模式架构) 的强制编码规范。编写、审查或重构 packages/*、apps/{desktop,web,mobile}/plugins/* 下任何 .ts/.tsx 时使用,尤其涉及 DI 注入 (createIdentifier/@Inject/@Optional/@DependentOn)、Observable ($ 后缀/Subject 封装)、Disposable 生命周期、Service/Controller/Plugin 模板、命令系统 (Command/Mutation/Operation)、菜单系统 (下拉/右键/mergeMenu/triggerContextMenu)、Base46 主题与颜色 (tm: 前缀类/base_30/base_16/IThemeService/xterm 配色/换肤透明度)、拦截器、React 集成、插件配置键 (config.schema.ts/PLUGIN_CONFIG_KEY)、目录与命名规范 (plugin.ts/包名/*-mobile) 时;新建插件包或 plugin.ts 必读。
+description: 'Termlnk 仓库 (DI + RxJS + 命令模式架构) 的强制编码规范。编写、审查或重构 packages/*、apps/{desktop,web,mobile}/plugins/* 下任何 .ts/.tsx 时使用,尤其涉及 DI 注入 (createIdentifier/@Inject/@Optional/@DependentOn)、Observable ($ 后缀/Subject 封装)、Disposable 生命周期、Service/Controller/Plugin 模板、命令系统 (Command/Mutation/Operation)、菜单系统 (下拉/右键/mergeMenu/triggerContextMenu)、Base46 主题与颜色 (tm: 前缀类/base_30/base_16/IThemeService/xterm 配色/换肤透明度)、拦截器、React 集成、插件配置键 (config.schema.ts/PLUGIN_CONFIG_KEY)、目录与命名规范 (plugin.ts/包名/*-mobile) 时;新建插件包或 plugin.ts 必读。'
 ---
 
 # Termlnk 代码规范 (DI + RxJS + 命令模式)
